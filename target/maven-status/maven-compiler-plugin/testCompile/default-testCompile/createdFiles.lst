@@ -1,0 +1,11 @@
+tests/AlyticsHomePage.class
+pages/BasePage.class
+tests/BaseTest.class
+utils/DriverFactory$1.class
+pages/ProjectsPage.class
+utils/Browser.class
+utils/PropertyReader.class
+steps/ProjectsPageSteps.class
+steps/LoginPageSteps.class
+pages/LoginPage.class
+utils/DriverFactory.class
